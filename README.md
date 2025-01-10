@@ -2,7 +2,7 @@
 
 본 프로젝트는 Dataon의 2022 연구 데이터 분석활용 경진대회에 참여하며 진행했습니다.
 
- 대회 URL : http://dataon-con.kr/pages/about_new.php
+ URL : [http://dataon-con.kr/pages/about_new.php](https://dataon.kisti.re.kr/search/view.do)
  
  주제 - Gexp : Genemarker Expert 머신러닝 기반 멀티 클래스 분석 바이오 마커 탐지 소프트웨어 
 
